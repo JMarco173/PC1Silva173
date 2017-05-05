@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PC1Silva173
+  host: PC1Silva173
+  disk_quota: 1024M
